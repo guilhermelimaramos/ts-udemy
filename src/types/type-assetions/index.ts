@@ -15,5 +15,5 @@ input.value = 'value';
 input.focus();
 
 // type assertions
-const body4 = document.querySelector('body') as Number; // Type 'HTMLBodyElement' is missing the following properties from type 'Number'
-body4.style.background = 'blue';
+// const body4 = document.querySelector('body') as Number; // Type 'HTMLBodyElement' is missing the following properties from type 'Number'
+// body4.style.background = 'blue';
